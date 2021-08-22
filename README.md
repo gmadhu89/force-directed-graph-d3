@@ -10,6 +10,6 @@ Execution Steps(to run in local):
 2) Setup a local [http.server](https://ryanblunden.com/create-a-http-server-with-one-command-thanks-to-python-29fcfdcd240e)
 3) Open graph.html after initiating http server to view the visualization.
 
-Click here to access the [Interactive Visualization](https://gmadhu89/force-directed-graph-visualization-d3/)
+Click here to access the [Interactive Visualization](https://gmadhu89.github.io/force-directed-graph-visualization-d3/)
 
 ![Snapshot of Visualization](https://github.com/gmadhu89/academic-projects/blob/main/force-directed-graph-visualization-d3/force-graph.JPG?raw=true "Snapshot of Visualization")
