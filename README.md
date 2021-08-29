@@ -10,6 +10,8 @@ Execution Steps(to run in local):
 2) Setup a local [http.server](https://ryanblunden.com/create-a-http-server-with-one-command-thanks-to-python-29fcfdcd240e)
 3) Open graph.html after initiating http server to view the visualization.
 
-Click here to access the [Interactive Visualization](https://gmadhu89.github.io/force-directed-graph-d3/)
+Click here to access the [Interactive Visualization](https://gmadhu89.github.io/force-directed-graph-d3/)  
+Single click on any node to move its position and pin to a specifc position.  
+Double click on pinned node to release it.  
 
 ![Snapshot of Visualization](https://github.com/gmadhu89/academic-projects/blob/main/force-directed-graph-visualization-d3/force-graph.JPG?raw=true "Snapshot of Visualization")
