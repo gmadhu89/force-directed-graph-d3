@@ -2,8 +2,8 @@ This network visualization identifies similarity between board games from a simp
 
 Force-directed layouts use simulations of physical forces to arrange the elemnts(nodes in this case) on the screen. This is implemented using d3.forcesmimulation() module.  
 
-Input file: board_games.csv  
-Code: graph.html  
+Input file: input.csv  
+Code: index.html  
 
 Execution Steps(to run in local):    
 1) Copy the lib/ folder to your local.
