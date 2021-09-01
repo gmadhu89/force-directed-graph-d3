@@ -14,4 +14,4 @@ Click here to access the [Interactive Visualization](https://gmadhu89.github.io/
 Single click on any node to move its position and pin to a specifc position.  
 Double click on pinned node to release it.  
 
-![Snapshot of Visualization](https://github.com/gmadhu89/academic-projects/blob/main/force-directed-graph-visualization-d3/force-graph.JPG?raw=true "Snapshot of Visualization")
+![Snapshot of Visualization](https://github.com/gmadhu89/force-directed-graph-d3/blob/main/force-graph.JPG?raw=true "Snapshot of Visualization")
